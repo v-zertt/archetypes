@@ -127,7 +127,7 @@ h2.stages {
   text-align: center;
 }
 .stage {
-  float: none;
+  float: left;
   display:inline-block;
   background: #1a1a40;
   padding: 15px;
