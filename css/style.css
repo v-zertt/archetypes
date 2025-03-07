@@ -11,6 +11,7 @@ body {
 }
 
 .container {
+  width: 1280px;
   height: 730px;
   background: url("../img/background.png") center/cover no-repeat;
   margin: 0 auto;
