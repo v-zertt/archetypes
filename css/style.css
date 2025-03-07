@@ -198,12 +198,12 @@ section.archetypes {
 
 .second-block > div {
   display: inline-block;
-  margin: 40px;
+  margin: 30px;
   text-align: center;
 }
 .first-block > div {
   display: inline-block;
-  margin: 40px;
+  margin: 30px;
   text-align: center;
 }
 
@@ -222,7 +222,7 @@ h2.archetypes {
 }
 .third-block > div {
   display: inline-block;
-  margin: 40px;
+  margin: 30px;
   text-align: center;
 }
 
